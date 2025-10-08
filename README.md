@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5603AQGBLUaH2TwAHg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727916549757?e=1758153600&v=beta&t=d5Ujw2tkRGQRuASe2yEEJbC48qJurtbRAPak93D6mKA" align="center" style="width: 30%" />
+<img src="https://raw.githubusercontent.com/kacank87/kacank87/refs/heads/main/1727916549757.jpeg" align="center" style="width: 30%" />
 </div>  
   
 
@@ -15,7 +15,7 @@
 
 
 ### Frontend  
-<div align="center">  
+<div align="center" style="background:white;">  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
