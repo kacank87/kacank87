@@ -3,7 +3,7 @@
 </div>  
 
 <h2 align="center">👋 Hi, I'm <strong>Hanif</strong></h2>
-<h3 align="center">💻 Software Engineer | Reserve Engineering</h3>
+<h3 align="center">💻 Software Engineer | Reserve Engineer | Bug Hunter</h3>
 
 ---
 
