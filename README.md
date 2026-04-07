@@ -10,7 +10,7 @@
 
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build.;I+break.;I+understand.;Systems.+Bugs.+Silence.)](https://git.io/typing-svg)
-:::
+
 
 ---
 
