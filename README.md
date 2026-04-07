@@ -8,10 +8,9 @@
 <h1 align="center">Hi 👋, I'm Hanif</h1>
 <h3 align="center">💻 Software Engineer • 🪖 Reserve Engineer • 🐞 Bug Hunter</h3>
 
-<p align="center">
-  Passionate about building scalable systems, exploring low-level performance,  
-  and hunting bugs in the wild 🚀
-</p>
+[![Typing
+SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build.;I+break.;I+understand.;Systems.+Bugs.+Silence.)](https://git.io/typing-svg)
+:::
 
 ---
 
