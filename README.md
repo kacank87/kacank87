@@ -39,13 +39,13 @@
 <a href="https://github.com/kacank87">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/muhammad-hanifudin-1b6035237">
+<a href="https://www.linkedin.com/in/useyourlogic/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/hanifugaslos">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/@@gaslos">
+<a href="https://www.youtube.com/gaslos">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
@@ -56,17 +56,7 @@
 ## ⚡ Highlights  
 
 - 🔥 Focus on **performance & system-level programming**
-- 🧩 Love working with **Rust & Go**
-- 🛠️ Experienced in **cloud-native & containerized systems**
+- 🧩 Love working with **Rust & C++**
 - 🐛 Active in **bug hunting & security exploration**
 
----
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kacank87&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacank87&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-
-</div>
