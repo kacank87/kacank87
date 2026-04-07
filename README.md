@@ -50,9 +50,7 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&d
 
 </div>
 
-``` text
-"Not everything that runs is understood."
-```
+
 
 ---
 
@@ -61,5 +59,9 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&d
 - 🔥 Focus on **performance & system-level programming**
 - 🧩 Love working with **Rust & C++**
 - 🐛 Active in **bug hunting & security exploration**
+
+- ``` text
+"Not everything that runs is understood."
+```
 
 
